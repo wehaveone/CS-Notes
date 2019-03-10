@@ -1,4 +1,3 @@
-* [点击阅读面试进阶指南 ](https://github.com/CyC2018/Backend-Interview-Guide)
 <!-- GFM-TOC -->
 * [595. Big Countries](#595-big-countries)
 * [627. Swap Salary](#627-swap-salary)
@@ -497,7 +496,7 @@ https://leetcode.com/problems/customers-who-never-order/description/
 
 ## Description
 
-Curstomers 表：
+Customers 表：
 
 ```html
 +----+-------+
@@ -949,3 +948,5 @@ WHERE
 ORDER BY
     id;
 ```
+</br></br><div align="center">欢迎关注公众号，获取最新文章！</div></br>
+<div align="center"><img width="150px" src="https://github.com/CyC2018/CS-Notes/raw/master/docs/_media/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"></img></div>

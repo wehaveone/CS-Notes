@@ -1,4 +1,3 @@
-* [点击阅读面试进阶指南 ](https://github.com/CyC2018/Backend-Interview-Guide)
 <!-- GFM-TOC -->
 * [一、基础](#一基础)
 * [二、创建表](#二创建表)
@@ -766,3 +765,5 @@ SET PASSWROD FOR myuser = Password('new_password');
 # 参考资料
 
 - BenForta. SQL 必知必会 [M]. 人民邮电出版社, 2013.
+</br></br><div align="center">欢迎关注公众号，获取最新文章！</div></br>
+<div align="center"><img width="150px" src="https://github.com/CyC2018/CS-Notes/raw/master/docs/_media/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"></img></div>

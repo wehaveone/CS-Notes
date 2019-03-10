@@ -1,4 +1,3 @@
-* [点击阅读面试进阶指南 ](https://github.com/CyC2018/Backend-Interview-Guide)
 <!-- GFM-TOC -->
 * [一、概览](#一概览)
     * [Collection](#collection)
@@ -67,7 +66,7 @@
 
 ## 迭代器模式
 
-<div align="center"> <img src="pics/5_200.png"/> </div><br>
+<div align="center"> <img src="pics/91aa7c29-438f-4fcc-8c63-2a75899139de.png"/> </div><br>
 
 Collection 继承了 Iterable 接口，其中的 iterator() 方法能够产生一个 Iterator 对象，通过这个对象就可以迭代遍历 Collection 中的元素。
 
@@ -1112,3 +1111,5 @@ public final class ConcurrentCache<K, V> {
 - [Java 集合细节（二）：asList 的缺陷](http://wiki.jikexueyuan.com/project/java-enhancement/java-thirtysix.html)
 - [Java Collection Framework – The LinkedList Class](http://javaconceptoftheday.com/java-collection-framework-linkedlist-class/)
 
+</br></br><div align="center">欢迎关注公众号，获取最新文章！</div></br>
+<div align="center"><img width="150px" src="https://github.com/CyC2018/CS-Notes/raw/master/docs/_media/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"></img></div>
